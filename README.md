@@ -10,6 +10,8 @@ Webová stránka obsahuje informace o významných velkých cenách Formule 1.
 - **Týmy**
 
 ## ❗ Cíl a využití webu
+Přehledné info o F1.
+Tuhle stránku dělám abych vylepšil svoje schopnosti s HTML, CSS a JavaScriptem.
 
 ## 📃 Obsah
 - #### **Hlavní stránka*
@@ -19,7 +21,3 @@ Webová stránka obsahuje informace o významných velkých cenách Formule 1.
     - Právní informace
     - Ochrana osobních údajů
     - Zásady cookies
-
-## Využítí
-Přehledné info o F1.
-Tuhle stránku dělám abych vylepšil svoje schopnosti s HTML, CSS a JavaScriptem.
